@@ -1,3 +1,3 @@
-module github.com/jmank88/zillow
+module github.com/vertoforce/zillow
 
 go 1.13
